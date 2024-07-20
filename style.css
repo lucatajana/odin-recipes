@@ -1,0 +1,8 @@
+body
+{
+    margin: 0%;
+    padding: 20%;
+    background-color: dimgrey;
+    display: flex;
+    justify-content: center;
+}
